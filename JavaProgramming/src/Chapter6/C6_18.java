@@ -34,6 +34,8 @@ public class C6_18 {
      * Main Method
      *
      * @param password arguments passed/returned to Main Method
+     * @return boolean returns true or false based on whether password is
+     * correct or not
      */
     public static boolean passwordTest(String password) {
         if (password.length() < 8) {
