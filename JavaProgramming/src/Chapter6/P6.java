@@ -59,7 +59,7 @@ public class P6 {
     }
 
     /**
-     * Main Method
+     * Convert Method
      *
      * @param inputDollars arguments returned to Main Method
      * @param currency arguments returned to Main Method
