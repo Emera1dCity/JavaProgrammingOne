@@ -45,7 +45,7 @@ public class C7_26 {
      *
      * @param list1 arguments returned to Main Method
      * @param list2 arguments returned to Main Method
-     * @return returns boolean values for list1 & list2 to Main Method
+     * @return returns boolean values for list1 and list2 to Main Method
      */
     public static boolean equals(int[] list1, int[] list2) {
         return Arrays.equals(list1, list2);
