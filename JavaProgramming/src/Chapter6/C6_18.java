@@ -31,7 +31,7 @@ public class C6_18 {
     }
 
     /**
-     * Main Method
+     * PasswordTest Method
      *
      * @param password arguments passed/returned to Main Method
      * @return boolean returns true or false based on whether password is

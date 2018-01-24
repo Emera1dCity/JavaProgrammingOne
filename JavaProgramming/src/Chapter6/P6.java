@@ -59,11 +59,11 @@ public class P6 {
     }
 
     /**
-     * Main Method
+     * Convert Method
      *
      * @param inputDollars arguments returned to Main Method
      * @param currency arguments returned to Main Method
-     * @return returns double value for total dollar amount 
+     * @return returns double value for total dollar amount
      */
     public static double Convert(double inputDollars, double currency) {
         double total = 0;
