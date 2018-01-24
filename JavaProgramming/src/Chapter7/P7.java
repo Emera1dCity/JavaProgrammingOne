@@ -1,4 +1,3 @@
-
 package Chapter7;
 
 import java.util.Arrays;
@@ -10,6 +9,7 @@ import java.util.Scanner;
  * @author Nathaniel Johnson
  */
 public class P7 {
+
     /**
      * Main Method
      *
@@ -35,7 +35,7 @@ public class P7 {
         System.out.println("The contents of the array: ");
         print(inputArray);
     }
-    
+
     /**
      * Fill Method
      *
@@ -47,7 +47,7 @@ public class P7 {
             list1[i] = input.nextInt();
         }
     }
-    
+
     /**
      * Average Method
      *
@@ -63,7 +63,7 @@ public class P7 {
         double average = total / list1.length;
         return average;
     }
-    
+
     /**
      * Print Method
      *
